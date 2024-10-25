@@ -1,2 +1,2 @@
-# 25_assignment_2
+# official-assignment-2
 lets finished homework and enjoy the weekend.
